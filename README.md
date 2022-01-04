@@ -1,5 +1,4 @@
-# Parking-Solutions
-Parking Solutions using Arduino Uno
+# Parking-Solutions using Arduino Uno
 
 **ABSTRACT**
 
