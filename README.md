@@ -108,3 +108,7 @@ We have experimented the system to gather some statistical results. After the ex
 - [x] [LiquidCrystal LCD display to an Arduino board](https://github.com/PaulStoffregen/Wire)
 - [x] [Wire library used on Teensy boards](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)
 
+>**Developed/Executed By-**
+>*Arnab Samanta
+>*Debabrata Das
+>*Abhjit Shaw
