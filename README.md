@@ -27,7 +27,7 @@ Parking project aims at providing a confusion free and easy parking.
 
 **Block Diagram**
 
-![Block_diagram](https:nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn.jpg)
+![Block_diagram](https://techatronic.com/wp-content/uploads/2021/08/03333-1024x702.jpg)
 
 
 **SOURCE CODE**
