@@ -108,5 +108,3 @@ We have experimented the system to gather some statistical results. After the ex
 - [x] [LiquidCrystal LCD display to an Arduino board](https://github.com/PaulStoffregen/Wire)
 - [x] [Wire library used on Teensy boards](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)
 
->**EXECUTED BY**
-![alt text](https://scontent.fccj6-1.fna.fbcdn.net/v/t1.6435-9/161000073_490642218743518_4295369850797339592_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_ohc=V4MrNhd_4ggAX8ZyeXO&_nc_oc=AQkOaXLwKozbp1UkcE2WYYhO1UO5--S9w_ERGqY9YpourdrhvHp98a8FhB8N_aDj1ojLx3rV8n9v9W_WAKV8iVHy&tn=6bUWZpTSjmKBrWs0&_nc_ht=scontent.fccj6-1.fna&oh=00_AT-l_gJuHEkvEa983dONB12_ShcXck98Pa0By3FYsCOQpg&oe=61FAC4B5)
