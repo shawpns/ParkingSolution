@@ -30,7 +30,7 @@ Parking project aims at providing a confusion free and easy parking.
 ![Block_diagram](https://techatronic.com/wp-content/uploads/2021/08/03333-1024x702.jpg)
 
 
-**SOURCE CODE**
+**SOURCE CODE using C/C++**
 
 ```// The BackBenchers
  #include <Wire.h>           
@@ -103,7 +103,7 @@ We have tested the design system with a dummy car. There are usually two possibi
 
 We have experimented the system to gather some statistical results. After the experience, we have found the inner IR Proximity Sensor and outer IR Proximity Sensor works perfectly. As the result shows, the system is almost 100% correct. The whole experiment was done couple of times by us. Dummy cars were used. The prototype was not always correct due to the limitations of the use of low quality sensors. But the performance was satisfactory enough.
 
-**References**
+**Library Used**
 
-https://github.com/PaulStoffregen/Wire
-https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
+- [x] [LiquidCrystal LCD display to an Arduino board](https://github.com/PaulStoffregen/Wire)
+- [x] [Wire library used on Teensy boards](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)
