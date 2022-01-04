@@ -93,7 +93,7 @@ We have tested the design system with a dummy car. There are usually two possibi
 *	Entry : While entering, the car is noticed by the IR Proximity Sensors. Firstly the outer IR Proximity Sensor and then the inner IR Proximity Sensor. The count increases and result is shown in display.
 *	Exit : In this case, Firstly the inner IR Proximity Sensor notices and then the inner IR Proximity Sensor. The count decreases and result is shown in display.
 
-**Prototype**
+>**Prototype**
 
 ![prototype](https:bcbc.jpg)
 
