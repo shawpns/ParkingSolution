@@ -1,12 +1,12 @@
-# Parking-Solutions using Arduino Uno
+># Parking-Solutions using Arduino Uno
 
-**ABSTRACT**
+>**ABSTRACT**
 
 Parking project aims at providing a confusion free and easy parking.
 *	This project helps the drivers of the cars to park their vehicles with minimum wastage of time with accurate information of the availability of the space to park.
 *	It includes an Arduino Uno as the microcontroller unit to which the servo motors, LCD display ultrasonic sensors (HC-05) are interfaced. The LCD displays the availability of the space, the ultrasonic sensors keeps the check of the number of cars entering and exiting the parking space. The ultrasonic sensors detect the availability of the parking space.
 
-**THEORY**
+>**THEORY**
 
 *	The system counts the number of cars in the garage and checks if there’s any vacancy.
 *	There’s an entry and exit path. When vehicle enters, the display shows the number of cars inside. When any vehicle leaves, the count decreases and shown on display.
@@ -25,12 +25,12 @@ Parking project aims at providing a confusion free and easy parking.
 >8.  [Arduino IDE]()
 >9.  [USB cable for uploading the code]()
 
-**Block Diagram**
+>**Block Diagram**
 
 ![Block_diagram](https://techatronic.com/wp-content/uploads/2021/08/03333-1024x702.jpg)
 
 
-**SOURCE CODE using C/C++**
+>**SOURCE CODE using C/C++**
 
 ```// The BackBenchers
  #include <Wire.h>           
@@ -87,7 +87,7 @@ Parking project aims at providing a confusion free and easy parking.
  }  
  ```
 
-**System Testing**
+>**System Testing**
 
 We have tested the design system with a dummy car. There are usually two possibilities.
 *	Entry : While entering, the car is noticed by the IR Proximity Sensors. Firstly the outer IR Proximity Sensor and then the inner IR Proximity Sensor. The count increases and result is shown in display.
@@ -103,7 +103,7 @@ We have tested the design system with a dummy car. There are usually two possibi
 
 We have experimented the system to gather some statistical results. After the experience, we have found the inner IR Proximity Sensor and outer IR Proximity Sensor works perfectly. As the result shows, the system is almost 100% correct. The whole experiment was done couple of times by us. Dummy cars were used. The prototype was not always correct due to the limitations of the use of low quality sensors. But the performance was satisfactory enough.
 
-**Library Used**
+>**Library Used**
 
 - [x] [LiquidCrystal LCD display to an Arduino board](https://github.com/PaulStoffregen/Wire)
 - [x] [Wire library used on Teensy boards](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)
