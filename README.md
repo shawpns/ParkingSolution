@@ -109,6 +109,6 @@ We have experimented the system to gather some statistical results. After the ex
 - [x] [Wire library used on Teensy boards](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)
 
 >**Developed/Executed By-**
->*Arnab Samanta
->*Debabrata Das
->*Abhjit Shaw
+>* Arnab Samanta
+>* Debabrata Das
+>* Abhjit Shaw
