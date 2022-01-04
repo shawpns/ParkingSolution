@@ -15,7 +15,7 @@ Parking project aims at providing a confusion free and easy parking.
 
 **Hardware Design**
 
-1.	Arduino UNO
+1.	[Arduino UNO]()
 2.	Two IR Proximity Sensor
 3.	16×2 LCD and an I2C module
 4.	Bread Board
