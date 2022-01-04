@@ -16,14 +16,14 @@ Parking project aims at providing a confusion free and easy parking.
 **Hardware Design**
 
 1.	[Arduino UNO](https://store-usa.arduino.cc/products/arduino-uno-rev3/?selectedStore=us)
-2.	Two IR Proximity Sensor
-3.	16×2 LCD and an I2C module
-4.	Bread Board
-5.	SG90 Micro-servo motor
-6.	Jumper Wires
-7.  Power Supply
-8.  Arduino IDE
-9.  USB cable for uploading the code
+2.	[Two IR Proximity Sensor]()
+3.	[16×2 LCD and an I2C module]()
+4.	[Bread Board]()
+5.	[SG90 Micro-servo motor]()
+6.	[Jumper Wires]()
+7.  [Power Supply]()
+8.  [Arduino IDE]()
+9.  [USB cable for uploading the code]()
 
 **Block Diagram**
 
