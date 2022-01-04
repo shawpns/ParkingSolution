@@ -1,10 +1,10 @@
-># Parking-Solutions using Arduino Uno
+># ``Parking-Solutions using Arduino Uno``
 
 >**ABSTRACT**
 
 Parking project aims at providing a confusion free and easy parking.
 *	This project helps the drivers of the cars to park their vehicles with minimum wastage of time with accurate information of the availability of the space to park.
-*	It includes an Arduino Uno as the microcontroller unit to which the servo motors, LCD display ultrasonic sensors (HC-05) are interfaced. The LCD displays the availability of the space, the ultrasonic sensors keeps the check of the number of cars entering and exiting the parking space. The ultrasonic sensors detect the availability of the parking space.
+*	It includes an Arduino Uno as the ``microcontroller unit`` to which the servo motors, ``LCD display ultrasonic sensors (HC-05)`` are interfaced. The LCD displays the availability of the space, the ultrasonic sensors keeps the check of the number of cars entering and exiting the parking space. The ultrasonic sensors detect the availability of the parking space.
 
 >**THEORY**
 
@@ -90,8 +90,8 @@ Parking project aims at providing a confusion free and easy parking.
 >**System Testing**
 
 We have tested the design system with a dummy car. There are usually two possibilities.
-*	Entry : While entering, the car is noticed by the IR Proximity Sensors. Firstly the outer IR Proximity Sensor and then the inner IR Proximity Sensor. The count increases and result is shown in display.
-*	Exit : In this case, Firstly the inner IR Proximity Sensor notices and then the inner IR Proximity Sensor. The count decreases and result is shown in display.
+*	``Entry`` : While entering, the car is noticed by the IR Proximity Sensors. Firstly the outer IR Proximity Sensor and then the inner IR Proximity Sensor. The count increases and result is shown in display.
+*	``Exit`` : In this case, Firstly the inner IR Proximity Sensor notices and then the inner IR Proximity Sensor. The count decreases and result is shown in display.
 
 >**Prototype**
 
