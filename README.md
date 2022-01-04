@@ -1,5 +1,7 @@
 ># ``Parking-Solutions using Arduino Uno``
 
+![poster](https://cdn.discordapp.com/attachments/873721341935755304/927959314067488828/poster.png)
+
 >**ABSTRACT**
 
 Parking project aims at providing a confusion free and easy parking.
