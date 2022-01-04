@@ -95,7 +95,7 @@ We have tested the design system with a dummy car. There are usually two possibi
 
 >**Prototype**
 
-![prototype](https:bcbc.jpg)
+![prototype](https://media.discordapp.net/attachments/873721341935755304/927929675299303424/ggdgg.jpeg?width=456&height=415)
 
 
 
