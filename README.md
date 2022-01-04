@@ -4,7 +4,7 @@
 
 Parking project aims at providing a confusion free and easy parking.
 *	This project helps the drivers of the cars to park their vehicles with minimum wastage of time with accurate information of the availability of the space to park.
-*	It includes an Arduino Uno as the ``microcontroller unit`` to which the servo motors, ``LCD display ultrasonic sensors (HC-05)`` are interfaced. The LCD displays the availability of the space, the ultrasonic sensors keeps the check of the number of cars entering and exiting the parking space. The ultrasonic sensors detect the availability of the parking space.
+*	It includes an ``Arduino Uno`` as the microcontroller unit to which the ``servo motor``, ``LCD display ultrasonic sensors (HC-05)`` are interfaced. The LCD displays the availability of the space, the ultrasonic sensors keeps the check of the number of cars entering and exiting the parking space. The ultrasonic sensors detect the availability of the parking space.
 
 >**THEORY**
 
