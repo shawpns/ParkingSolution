@@ -8,10 +8,10 @@ Parking project aims at providing a confusion free and easy parking.
 
 **THEORY**
 
-•	The system counts the number of cars in the garage and checks if there’s any vacancy.
-•	There’s an entry and exit path. When vehicle enters, the display shows the number of cars inside. When any vehicle leaves, the count decreases and shown on display.
-•	If the garage is full. The display will show a message regarding that. 
-•	This whole process includes the use of Arduino.
+*	The system counts the number of cars in the garage and checks if there’s any vacancy.
+*	There’s an entry and exit path. When vehicle enters, the display shows the number of cars inside. When any vehicle leaves, the count decreases and shown on display.
+*	If the garage is full. The display will show a message regarding that. 
+*	This whole process includes the use of Arduino.
 
 **Hardware Design**
 
@@ -90,8 +90,8 @@ Parking project aims at providing a confusion free and easy parking.
 **System Testing**
 
 We have tested the design system with a dummy car. There are usually two possibilities.
-•	Entry : While entering, the car is noticed by the IR Proximity Sensors. Firstly the outer IR Proximity Sensor and then the inner IR Proximity Sensor. The count increases and result is shown in display.
-•	Exit : In this case, Firstly the inner IR Proximity Sensor notices and then the inner IR Proximity Sensor. The count decreases and result is shown in display.
+*	Entry : While entering, the car is noticed by the IR Proximity Sensors. Firstly the outer IR Proximity Sensor and then the inner IR Proximity Sensor. The count increases and result is shown in display.
+*	Exit : In this case, Firstly the inner IR Proximity Sensor notices and then the inner IR Proximity Sensor. The count decreases and result is shown in display.
 
 **Prototype**
 
